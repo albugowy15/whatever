@@ -1,4 +1,4 @@
-Heart Rate (HR),Systolic Blood Pressure (BPS),Diastolic Blood Pressure (BPD),Body Temperature (C),Body Temperature (F),Stress Level
+heart_rate,systolic_blood_pressure,diastolic_blood_pressure,body_temp_c,body_temp_f,stress_level
 98,118,73,36.83372597,98.30070675,Tense
 102,119,73,36.83372597,98.30070675,Stressed
 81,110,76,36.83372597,98.30070675,Calm
